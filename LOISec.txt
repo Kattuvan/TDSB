@@ -1,0 +1,111 @@
+SchoolID SchoolName FamilyofSchools Ward LOI2014Score LOI2014Rank LOI2011Score LOI2011Rank LOI2009Score LOI2009Rank
+2272 "Native Learning Centre East" ER13 22 0.969997 1 0.969997 1 0.969997 1
+448 "Westview Centennial Secondary School" WR2 4 0.957134 2 0.955861 1 0.954062 2
+411 "Nelson A Boylen Collegiate Institute" WR5 6 0.955294 3 0.950252 2 0.946707 3
+1457 "York Humber High School" WR5 6 0.936668 4 0.943239 5 0.957664 1
+420 "Downsview Secondary School" WR2 5 0.934898 5 0.929305 6 0.924596 7
+1310 "Eastern Commerce Collegiate Institute" WR10 15 0.918164 6 0.944614 4 0.936609 6
+2271 "Native Learning Centre" WR9 14 0.915055 7 0.896199 8 0.942139 4
+1309 "Eastdale Collegiate Institute" WR10 15 0.90139 8 0.944911 3 0.94037 5
+1436 "George Harvey Collegiate Institute" WR5 6 0.887679 9 0.875874 12 0.875332 10
+3994 "North West Year Round Alternative Centre" WR3 5 0.884081 10 0.913287 7 0.915156 8
+1451 "Runnymede Collegiate Institute" WR6 7 0.879631 11 0.878827 11 0.850604 14
+3947 "Yorkdale Secondary School" CR22 8 0.873647 12 0.889932 9 0.844462 15
+1435 "Frank Oke Secondary School" WR5 6 0.867804 13 0.858539 13 0.872671 11
+1458 "York Memorial Collegiate Institute" WR5 6 0.85396 14 0.835143 17 0.829953 20
+441 "C W Jefferys Collegiate Institute" WR2 4 0.845843 15 0.838296 16 0.833247 19
+1293 "Contact Alternative School" WR7 10 0.842249 16 0.740647 32 0.699973 38
+1035 "Central Etobicoke High School" WR4 2 0.836692 17 0.808196 22 0.808795 24
+4028 "South East Year Round Alternative Centre" ER12 18 0.836535 18 0.783476 25 0.765814 30
+434 "Emery Collegiate Institute" WR1 4 0.831064 19 0.798281 23 0.801644 26
+4012 "John Polanyi Collegiate Institute" WR3 8 0.818525 20 0.818525 20 0.818525 20
+1455 "Weston Collegiate Institute" WR5 6 0.816849 21 0.782823 26 0.799925 27
+1234 "Sir Robert L Borden Business and Technical Institute" ER13 22 0.811388 22 0.818398 21 0.836511 17
+1074 "Scarlett Heights Entrepreneurial Academy" WR4 2 0.811308 23 0.720978 37 0.655475 50
+1510 "Overflow Centre" ER15 20 0.807219 24 0.782155 28 0.859484 13
+1341 "Jarvis Collegiate Institute" WR9 14 0.80092 25 0.824304 20 0.768977 29
+1411 "West End Alternative School" WR9 10 0.794211 26 0.782219 27 0.759786 32
+1328 "Heydon Park Secondary School" WR9 10 0.788854 27 0.83876 15 0.863475 12
+1200 "Maplewood High School" ER13 22 0.788224 28 0.788331 24 0.817431 21
+1107 "Bendale Business and Technical Institute" ER14 19 0.777055 29 0.830796 18 0.844383 16
+1058 "Kipling Collegiate Institute" WR4 2 0.772035 30 0.713874 38 0.692857 40
+1227 "Scarborough Centre for Alternative Studies" CR22 18 0.768915 31 0.750603 30 0.697344 39
+1325 "Greenwood Secondary School" WR10 15 0.768805 32 0.830738 19 0.803956 25
+3369 "CALC Secondary School" CR22 15 0.762499 33 0.747152 31 0.740087 33
+1284 "Central Commerce Collegiate Institute" WR9 10 0.755746 34 0.841887 14 0.83459 18
+1085 "Thistletown Collegiate Institute" WR1 1 0.724288 35 0.659563 47 0.666167 46
+1261 "Winston Churchill Collegiate Institute" ER12 19 0.696073 36 0.686148 42 0.68201 44
+3368 "Burnhamthorpe Collegiate Institute" CR22 2 0.691552 37 0.735024 34 0.791015 28
+1285 "Central Technical School" WR9 10 0.690884 38 0.733921 35 0.723414 34
+1404 "Subway Academy I" WR10 15 0.678348 39 0.729873 36 0.690173 41
+1124 "Cedarbrae Collegiate Institute" ER14 19 0.663993 40 0.681955 43 0.687132 42
+1375 "Oasis Alternative Secondary School" WR7 10 0.652206 41 0.754857 29 0.664681 48
+4016 "Etobicoke Year Round Alternative Centre" WR6 3 0.645203 42 0.73738 33 0.765768 31
+1140 "David and Mary Thomson Collegiate Institute" ER14 19 0.642651 43 0.662429 46 0.633241 52
+1009 "East York Alternative Secondary School" ER11 16 0.620869 44 0.704988 39 0.656552 49
+1237 "Sir William Osler High School" ER19 21 0.616147 45 0.653172 48 0.646714 51
+1453 "Vaughan Road Academy" WR3 8 0.607552 46 0.432081 68 0.339376 75
+1295 "Danforth Collegiate and Technical Institute" WR10 15 0.6064 47 0.672893 44 0.666159 47
+1276 "Bloor Collegiate Institute" WR7 9 0.604232 48 0.69263 41 0.680125 45
+1091 "West Humber Collegiate Institute" WR1 1 0.603506 49 0.492975 62 0.505285 62
+1374 "Oakwood Collegiate Institute" WR8 9 0.580755 50 0.56166 53 0.538225 57
+1399 "SEED Alternative School" WR10 15 0.575261 51 0.36338 74 0.210444 89
+1075 "School of Experiential Education" WR4 1 0.567923 52 0.520842 58 0.308276 80
+4068 "North East Year Round Alternative Centre" ER18 17 0.559311 53 0.69308 40 0.815405 22
+1236 "Sir Wilfrid Laurier Collegiate Institute" ER13 22 0.554832 54 0.564896 52 0.589561 54
+1067 "North Albion Collegiate Institute" WR1 1 0.551452 55 0.535486 57 0.595111 53
+1383 "Parkdale Collegiate Institute" WR7 7 0.547521 56 0.669853 45 0.710474 37
+1113 "Birchmount Park Collegiate Institute" ER12 18 0.536291 57 0.50751 59 0.468839 66
+1251 "West Hill Collegiate Institute" ER20 22 0.520368 58 0.480753 65 0.511764 60
+1010 "East York Collegiate Institute" ER11 16 0.513796 59 0.560074 54 0.573069 55
+1414 "Western Technical-Commercial School" WR7 7 0.508101 60 0.548875 55 0.508564 61
+1226 "SATEC @ WA Porter Collegiate Institute" ER12 18 0.499493 61 0.538013 56 0.555585 56
+1365 "Monarch Park Collegiate Institute" WR10 15 0.497848 62 0.645808 49 0.714935 35
+1240 "Stephen Leacock Collegiate Institute" ER19 20 0.493161 63 0.491253 63 0.47409 65
+512 "Drewry Secondary School" ER17 12 0.492756 64 0.631835 50 0.712624 36
+1400 "School of Life Experience" WR10 15 0.472684 65 0.305099 79 0.152553 91
+1254 "Wexford Collegiate School for the Arts" ER12 19 0.455912 66 0.40832 70 0.3972 68
+1221 "R H King Academy" ER13 18 0.444035 67 0.49719 60 0.514825 59
+1059 "Lakeshore Collegiate Institute" WR6 3 0.441541 68 0.447214 66 0.48062 64
+439 "George S Henry Academy" ER15 17 0.441489 69 0.396613 71 0.339916 74
+442 "Newtonbrook Secondary School" ER17 12 0.433583 70 0.432101 67 0.349136 73
+1014 "Marc Garneau Collegiate Institute" ER16 13 0.40964 71 0.49314 61 0.487777 63
+440 "Northview Heights Secondary School" WR3 5 0.405765 72 0.361756 75 0.322917 77
+1392 "Riverdale Collegiate Institute" WR10 15 0.397729 73 0.578211 51 0.528266 58
+1101 "Alternative Scarborough Education" ER14 19 0.396528 74 0.316953 77 0.314455 79
+447 "Victoria Park Collegiate Institute" ER15 17 0.389551 75 0.381905 73 0.386295 70
+1191 "L'Amoreaux Collegiate Institute" ER18 20 0.360126 76 0.386437 72 0.403486 67
+1326 "Harbord Collegiate Institute" WR9 10 0.347237 77 0.411475 69 0.395652 69
+1405 "Subway Academy II" WR9 10 0.330135 78 0.483294 64 0.366602 71
+1262 "Woburn Collegiate Institute" ER14 19 0.322498 79 0.284739 80 0.332786 76
+446 "Georges Vanier Secondary School" ER18 17 0.299955 80 0.358533 76 0.296953 81
+1192 "Lester B Pearson Collegiate Institute" ER20 21 0.291299 81 0.315489 78 0.364031 72
+444 "William Lyon Mackenzie Collegiate Institute" WR3 5 0.283881 82 0.274956 82 0.290391 82
+415 "Don Mills Collegiate Institute" ER15 17 0.273648 83 0.245966 84 0.251716 85
+1095 "Agincourt Collegiate Institute" ER19 21 0.273508 84 0.283897 81 0.314563 78
+1102 "Delphi Secondary Alternative School" ER19 21 0.267393 85 0.204909 88 0.247976 86
+1062 "Martingrove Collegiate Institute" WR4 2 0.241955 86 0.253242 83 0.222488 88
+1098 "Albert Campbell Collegiate Institute" ER19 21 0.235059 87 0.222925 85 0.271067 83
+1232 "Sir John A Macdonald Collegiate Institute" ER18 20 0.226979 88 0.222062 86 0.237071 87
+1145 "Dr Norman Bethune Collegiate Institute" ER18 20 0.21694 89 0.220462 87 0.265824 84
+1079 "Silverthorn Collegiate Institute" WR4 2 0.208671 90 0.136149 91 0.141691 92
+1408 "THESTUDENTSCHOOL" WR7 7 0.192255 91 0.111764 93 0.126545 95
+1071 "Richview Collegiate Institute" WR4 2 0.14121 92 0.085583 95 0.062285 102
+409 "Avondale Alternative Secondary School" ER17 12 0.138342 93 0.11233 92 0.134277 93
+432 "A Y Jackson Secondary School" ER17 12 0.135388 94 0.139671 90 0.134185 94
+1395 "Rosedale Heights School of the Arts" WR9 14 0.117062 95 0.161253 89 0.182552 90
+1315 "Forest Hill Collegiate Institute" WR8 11 0.106679 96 0.078863 98 0.074616 101
+1289 "City School" WR7 10 0.094608 97 0.083462 96 0.080465 99
+430 "Earl Haig Secondary School" ER17 12 0.078738 98 0.109323 94 0.100082 96
+1043 "Etobicoke Collegiate Institute" WR4 2 0.078618 99 0.081814 97 0.091604 97
+1409 "Ursula Franklin Academy" WR7 7 0.057914 100 0.07238 100 0.087269 98
+1338 "Inglenook Community School" WR9 14 0.050444 101 0.076861 99 0.076229 100
+1335 "Humberside Collegiate Institute" WR7 7 0.050242 102 0.060258 101 0.052257 104
+1372 "Northern Secondary School" WR8 11 0.049192 103 0.036069 104 0.028583 107
+450 "York Mills Collegiate Institute" ER16 13 0.044449 104 0.038942 103 0.04423 105
+1044 "Etobicoke School of the Arts" WR6 3 0.028063 105 0.045507 102 0.055917 103
+1233 "Sir Oliver Mowat Collegiate Institute" ER13 22 0.02431 106 0.021666 107 0.022238 109
+1013 "Leaside High School" ER16 13 0.024265 107 0.010291 108 0.010876 110
+1358 "Malvern Collegiate Institute" ER11 16 0.019656 108 0.023189 106 0.030996 106
+1371 "North Toronto Collegiate Institute" WR8 11 0.008644 109 0.023307 105 0.026976 108
+1353 "Lawrence Park Collegiate Institute" WR3 8 0.000613 110 0.001203 109 0.001149 111
